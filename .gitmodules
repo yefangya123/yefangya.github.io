@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = docs/.vuepress/public
+	branch = master
+	url = https://github.com/yefangya123/yefangya123.github.io.git
